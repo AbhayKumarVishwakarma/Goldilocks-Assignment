@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="125c8da8-859a-4d90-b119-cb2fd71475c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Question1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question1/Question1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/Question2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/Question3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/lib/mysql-connector-j-8.0.32.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question4/Question4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question5/Question5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/Question6Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/exception/EmployeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/exception/MyErrorDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/java/com/goldi/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question6/src/test/java/com/goldi/Question6ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question7/Question7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Question8/SQL query.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2UWCQsr2paN1wlsRNUePnzJlXdc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="125c8da8-859a-4d90-b119-cb2fd71475c9" name="Changes" comment="" />
+      <created>1693045938985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693045938985</updated>
+    </task>
+    <servers />
+  </component>
+</project>
